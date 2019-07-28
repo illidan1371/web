@@ -1,0 +1,13 @@
+img{
+  height: 200px;
+  width: 200px;
+  border-right: auto;
+  float: right;
+
+}
+body{
+  background-color: rgba(70,209,224);
+}
+h1{
+  color: rgba(128,66,0);
+}
